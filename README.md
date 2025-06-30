@@ -87,7 +87,7 @@ class StrategyLLM(Strategy):
     name = "LLM-Tag"
     def decide(self, self_history: list[str], opp_history: list[str]) -> str:
         # Return "C" or "D"
-
+```
 Results Summary
 Best Performing Strategies (Offline)
 Strategy	Consistent High Payoff
