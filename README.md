@@ -110,10 +110,10 @@ Mean Payoff vs. Number of Rounds for All Strategies (Offline Simulations)
 ```csharp
 Online Tournament Results
 Strategy	Mean Payoff 	Cooperation Rate
-Gemini	    3.000			1.000
-Claude3	     2.988			1.000
-GPT-4o	     2.988			0.971
-Grok	     2.829			0.921
+Gemini	    	3.000			1.000
+Claude3	    	2.988			1.000
+GPT-4o	    	2.988			0.971
+Grok	    	2.829			0.921
 DeepSeek	2.804			0.892
 ```
 
