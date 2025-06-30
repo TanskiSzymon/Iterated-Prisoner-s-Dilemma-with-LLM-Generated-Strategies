@@ -107,15 +107,16 @@ Insert here the following plot (e.g. matplotlib/seaborn):
 ![plot](https://github.com/user-attachments/assets/0a90d4e8-112c-4aa3-844d-7d8ad1f54529)
 Mean Payoff vs. Number of Rounds for All Strategies (Offline Simulations)
 
-```python
+
 Online Tournament Results
-Strategy	Mean Payoff	Cooperation Rate
-Gemini	3.000	1.000
-Claude3	2.988	1.000
-GPT-4o	2.988	0.971
-Grok	2.829	0.921
-DeepSeek	2.804	0.892
-```
+Strategy	Mean Payoff 	Cooperation Rate
+Gemini	    3.000			1.000
+Claude3	    2.988			1.000
+GPT-4o	    2.988			0.971
+Grok	    2.829			0.921
+DeepSeek	2.804			0.892
+
+
 These results indicate that prompt formulation may significantly bias strategies toward cooperation.
 
 Key Findings
