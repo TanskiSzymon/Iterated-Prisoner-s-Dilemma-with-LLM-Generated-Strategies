@@ -130,9 +130,7 @@ Prompt engineering significantly affects strategic behavior.
 Classical strategies like Tit-for-Tat remain strong but are now often outclassed.
 
 Project Structure
-csharp
-Kopiuj
-Edytuj
+```csharp
 ├── strategies/
 │   ├── base.py
 │   ├── gpt4o_strategy.py
@@ -147,25 +145,25 @@ Edytuj
 │   └── analysis.ipynb
 ├── README.md
 └── report.pdf
-
+```
 
 How to Reproduce
-
-Clone the repository:
+```python
+#Clone the repository:
 git clone https://github.com/your_username/ipd-llm-strategies.git
 cd ipd-llm-strategies
 
-(Optional) Set up a virtual environment:
+#(Optional) Set up a virtual environment:
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
-Run simulation:
+#Run simulation:
 python simulate_tournament.py
 
-Generate plots:
+#Generate plots:
 python plot_metrics.py
-
+```
 References
 Axelrod, R. (1984). The Evolution of Cooperation.
 Lewis et al. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.
